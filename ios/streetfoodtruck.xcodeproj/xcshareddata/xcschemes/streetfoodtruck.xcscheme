@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "streetfoodtruck_app.app"
-               BlueprintName = "streetfoodtruck_app"
-               ReferencedContainer = "container:streetfoodtruck_app.xcodeproj">
+               BuildableName = "streetfoodtruck.app"
+               BlueprintName = "streetfoodtruck"
+               ReferencedContainer = "container:streetfoodtruck.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "streetfoodtruck_appTests.xctest"
-               BlueprintName = "streetfoodtruck_appTests"
-               ReferencedContainer = "container:streetfoodtruck_app.xcodeproj">
+               BuildableName = "streetfoodtruckTests.xctest"
+               BlueprintName = "streetfoodtruckTests"
+               ReferencedContainer = "container:streetfoodtruck.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "streetfoodtruck_app.app"
-            BlueprintName = "streetfoodtruck_app"
-            ReferencedContainer = "container:streetfoodtruck_app.xcodeproj">
+            BuildableName = "streetfoodtruck.app"
+            BlueprintName = "streetfoodtruck"
+            ReferencedContainer = "container:streetfoodtruck.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "streetfoodtruck_app.app"
-            BlueprintName = "streetfoodtruck_app"
-            ReferencedContainer = "container:streetfoodtruck_app.xcodeproj">
+            BuildableName = "streetfoodtruck.app"
+            BlueprintName = "streetfoodtruck"
+            ReferencedContainer = "container:streetfoodtruck.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
